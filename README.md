@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luusi
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Service Composition over industrial scenarios
+- 🌱 I’m currently working on Service Composition over industrial scenarios
 - 📫 How to reach me silo@diag.uniroma1.it
 
 <!---
